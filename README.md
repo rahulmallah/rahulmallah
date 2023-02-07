@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **rahulmallah785671@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/search?q=resume]([https://drive.google.com/drive/search?q=resume](https://drive.google.com/file/d/14pfKbpR0DsX0JqDiTs9wEgMWiwbtFTwz/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/drive/search?q=resume](https://drive.google.com/file/d/14pfKbpR0DsX0JqDiTs9wEgMWiwbtFTwz/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
