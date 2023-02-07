@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [Kaggle IceCube-Neutrinos in Deep Ic](https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice)
 
-- 👨‍💻 All of my projects are available at [https://github.com/rahulmallah](https://github.com/rahulmallah)
+- 👨‍💻 All of my projects are available at [rahul_mallah](https://github.com/rahulmallah)
 
 - 📝 I regularly write articles on [https://medium.com/@rahulmallah785671](https://medium.com/@rahulmallah785671)
 
