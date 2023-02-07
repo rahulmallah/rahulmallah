@@ -31,12 +31,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rahulmallah7856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulmallah7856" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-m-743552160/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-m-743552160/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ltrahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ltrahul" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/prasadrahul78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/prasadrahul78/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahul-m-743552160/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-m-743552160/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ltrahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ltrahul" height="30" width="40" /></a>
+<a href="https://www.instagram.com/prasadrahul78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/prasadrahul78/" height="30" width="40" /></a>
 <a href="https://hashnode.com/@rahulprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rahulprasad" height="30" width="40" /></a>
 <a href="https://medium.com/@rahulmallah785671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rahulmallah785671" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/rahulprasad785671/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rahulprasad785671/" height="30" width="40" /></a>
+<a href="https://leetcode.com/rahulprasad785671/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rahulprasad785671/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
